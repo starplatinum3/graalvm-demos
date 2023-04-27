@@ -84,6 +84,11 @@ This step is optional - [Check software version and environment variables](../_c
     mvn package
     ```
 
+@starplatinum3 ➜ /workspaces/graalvm-demos/micronaut-hello-rest-maven (master) $ java  --version
+openjdk 11.0.14.1 2022-02-08 LTS
+OpenJDK Runtime Environment Microsoft-31205 (build 11.0.14.1+1-LTS)
+OpenJDK 64-Bit Server VM Microsoft-31205 (build 11.0.14.1+1-LTS, mixed mode)
+
     **OR** 
 
     ```shell
